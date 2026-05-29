@@ -12,18 +12,6 @@
     "officialUrl": "https://obsproject.com"
   },
   {
-    "id": "streamlabs",
-    "name": "Streamlabs Desktop",
-    "category": "streaming",
-    "wingetId": "Streamlabs.Streamlabs",
-    "registryName": "Streamlabs",
-    "exeName": "Streamlabs OBS.exe",
-    "icon": "radio",
-    "iconUrl": "https://cdn.streamlabs.com/static/imgs/uploads/logomark_streamlabs-desktop--day_3eI5XE9ujB8SrxZC.svg",
-    "description": "All-in-one streaming software with built-in overlays",
-    "officialUrl": "https://streamlabs.com"
-  },
-  {
     "id": "vmix",
     "name": "vMix",
     "category": "streaming",
@@ -35,68 +23,6 @@
     "description": "Professional live production and streaming software",
     "officialUrl": "https://www.vmix.com",
     "downloadUrl": "https://cdn.vmix.com/download/vmix29.exe"
-  },
-  {
-    "id": "avermedia-recentral",
-    "name": "AVerMedia RECentral 4",
-    "category": "streaming",
-    "wingetId": "",
-    "registryName": "RECentral",
-    "exeName": "RECentral.exe",
-    "icon": "monitor",
-    "iconUrl": "https://www.avermedia.com/event/AVerMedia-New-SoftwareFamily/images/ACPro_new_logo_rgb.png",
-    "description": "AVerMedia capture card recording software",
-    "officialUrl": "https://www.avermedia.com",
-    "downloadUrl": "https://storage.avermedia.com/web_release_www/software/AVerMedia_CamEngine_Installer_v4.3.40.1_25021301.exe"
-  },
-  {
-    "id": "ocam",
-    "name": "oCam",
-    "category": "streaming",
-    "wingetId": "",
-    "registryName": "oCam",
-    "exeName": "oCam.exe",
-    "icon": "camera",
-    "iconUrl": "https://images.sftcdn.net/images/t_app-icon-s/p/68408386-9b38-11e6-bfa1-00163ed833e7/2650538266/ocam-oCam.jpg",
-    "description": "Simple screen recorder and capture tool",
-    "officialUrl": "https://ohsoft.net/eng/ocam",
-    "downloadUrl": "https://raw.githubusercontent.com/ohsoft/archive/master/ocam/2023121501/oCam_v550.0.exe?ohsoft=best"
-  },
-  {
-    "id": "voicemeeter",
-    "name": "Voicemeeter",
-    "category": "audio",
-    "wingetId": "VB-Audio.Voicemeeter",
-    "registryName": "Voicemeeter",
-    "exeName": "voicemeeter.exe",
-    "icon": "mic",
-    "iconUrl": "https://voicemeeter.com/wp-content/uploads/vb-audio-voicemeeter-logo.png",
-    "description": "Virtual audio mixer for streaming and recording",
-    "officialUrl": "https://vb-audio.com/Voicemeeter"
-  },
-  {
-    "id": "voicemeeter-banana",
-    "name": "Voicemeeter Banana",
-    "category": "audio",
-    "wingetId": "VB-Audio.Voicemeeter.Banana",
-    "registryName": "Voicemeeter Banana",
-    "exeName": "voicemeeterpro.exe",
-    "icon": "mic",
-    "iconUrl": "https://images.sftcdn.net/images/t_app-icon-s/p/834db694-a4d4-11e6-a418-00163ed833e7/1551273771/voicemeeter-banana-icon.jpg",
-    "description": "Advanced virtual audio mixer with 5 inputs",
-    "officialUrl": "https://vb-audio.com/Voicemeeter/banana.htm"
-  },
-  {
-    "id": "elgato-stream-deck",
-    "name": "Elgato Stream Deck",
-    "category": "control",
-    "wingetId": "Elgato.StreamDeck",
-    "registryName": "Stream Deck",
-    "exeName": "StreamDeck.exe",
-    "icon": "layout-grid",
-    "iconUrl": "https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHM0OYfiFeMI2p9MWie0CvL99U4GA1gf6_kayTt_kBblFwHwo8BW8JXlqfnYxKPmmBdyNX5VM_SvTm79jre5z71HqLH3tmUtH.oqP8InvVEQNFd2ZkjVlRWsv.TW4fsSQ1k4vu_jVrl9qDuaja0LD_TQ-&format=source&h=115",
-    "description": "Customizable LCD key controller for streamers",
-    "officialUrl": "https://www.elgato.com/stream-deck"
   },
   {
     "id": "yycam-pro",
